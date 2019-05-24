@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="tests">
+	<test name="TG Web Functional Testing Scenario">
+		<classes>
+			<class name="com.tgweb.runner.CucumberRunner"></class>
+		</classes>
+	</test>
+</suite>
