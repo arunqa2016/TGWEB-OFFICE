@@ -27,7 +27,7 @@ public class BaseTest {
 	public static ExtentTest logger;
 	public static Properties prop;
 	public static WebDriverWait wait;
-	private String propPath = "C:\\Users\\HP\\eclipse-workspace\\TGweb\\src\\main\\java\\com\\tgweb\\config\\config.properties";
+	private String propPath = "E:\\Arun Backup Data\\workspace-eclipse\\TGWEB-OFFICE\\TGWEB-OFFICE\\src\\main\\java\\com\\tgweb\\config\\config.properties";
 	private static String reportLocation = "E:\\Automation_Reports\\TG_Web_AutomationReport.html";
 
 	public BaseTest() {
